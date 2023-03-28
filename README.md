@@ -1,5 +1,12 @@
 # React-shop-cloudfront
 
+## cloudfront
+https://dalebzf4uztoy.cloudfront.net/index.html
+
+## bucket
+http://my-store-app-dev-serverlessdeploymentbucket-1pt1hmalplom7.s3-website-us-east-1.amazonaws.com/index.html
+
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
