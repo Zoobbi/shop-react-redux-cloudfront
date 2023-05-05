@@ -1,7 +1,7 @@
 # React-shop-cloudfront
 
 ## cloudfront
-https://dalebzf4uztoy.cloudfront.net/index.html
+https://dalebzf4uztoy.cloudfront.net
 
 ## bucket
 http://zoobbi-shop1.s3-website-us-east-1.amazonaws.com/index.html
